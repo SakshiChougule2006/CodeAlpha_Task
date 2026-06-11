@@ -18,9 +18,10 @@
 > approaches and state-of-the-art ML algorithms.
 
 ---
-
 ## 🗂️ Repository Structure
-📁 CodeAlpha_Task/
+
+```
+CodeAlpha_Task/
 │
 ├── 📁 CodeAlpha_CreditScoringModel/
 │     ├── 📓 CodeAlpha_CreditScoringModel.ipynb
@@ -31,7 +32,8 @@
 │     └── 📊 diabetes.csv
 │
 └── 📁 CodeAlpha_HandwrittenCharacterRecognition/
-└── 📓 CodeAlpha_HandwrittenCharacterRecognition.ipynb
+      └── 📓 CodeAlpha_HandwrittenCharacterRecognition.ipynb
+```
 ---
 
 ## 🏦 Task 1 — Credit Scoring Model
