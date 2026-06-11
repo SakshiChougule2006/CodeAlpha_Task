@@ -186,9 +186,7 @@ using medical diagnostic measurements.
 
 ---
 
-## 📬 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/sakshi-chougule)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/SakshiChougule2006)
+
 
 ---
 
