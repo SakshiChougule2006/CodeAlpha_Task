@@ -50,4 +50,4 @@ using financial and demographic data from the German Credit Dataset.
 ## 👩‍💻 Author
 **Sakshi Chougule**
 B.Tech CSE (AI & ML) — Rajarambapu Institute of Technology
-CodeAlpha ML Internship 2024
+CodeAlpha ML Internship 2026
